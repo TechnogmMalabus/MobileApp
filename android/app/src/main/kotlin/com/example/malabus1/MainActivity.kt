@@ -1,0 +1,6 @@
+package com.example.malabus1
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
