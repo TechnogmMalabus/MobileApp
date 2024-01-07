@@ -1,0 +1,11 @@
+Backend is deployed on render and the api link is updated in the frontend files based on the new backend deploypmnet link
+
+The code is ready for being publishing to google play, all neccesasary changes are done succefully
+
+The publish process is automated with a cicd pipeline offred by Codemagic, to start the pipeline and publish the new updated and commit all you need is to create a new release in 
+github with creating a new tag this will auto trigger the process and the updated version will be upoaded in google play for review for production mode (if you want to publish it in test mode,
+you can achieve that by updating the settings on codemagic)
+
+
+
+
